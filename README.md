@@ -1,6 +1,6 @@
-# Idea Index
+# Idea-to-App Lab Index
 
-Public catalog for Idea to App Lab app blueprint packets.
+Public catalog for Doc Conduit's Idea-to-App Lab app blueprint packets.
 
 Each listed repo is a cloneable idea packet intended for humans and AI agents to inspect, adapt, and build from.
 
